@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: Durmstrang
+
+my:
+  studentName: Ron Weasley
+
+
+#properties format
+#spring.profiles.active=Beauxbatons
+##service.student_name=Draco Malfoy
+#my.studentName=Harry Potter
